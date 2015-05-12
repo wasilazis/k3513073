@@ -1,5 +1,5 @@
 <?php
-	echo "ini project ku";
+	echo "hapus oleh k3513073";
 	echo "edit oleh k3513073";
 ?>
 
